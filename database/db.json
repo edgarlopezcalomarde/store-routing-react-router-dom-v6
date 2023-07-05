@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "price": 15.56,
+      "category": "Clothes"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Table",
+      "price": 210,
+      "category": "Furniture"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Chair",
+      "price": 105,
+      "category": "Furniture"
+    },
+    {
+      "id": 4,
+      "name": "Shampoo",
+      "price": 3,
+      "category": "Beauty"
+    }
+  ]
+}
